@@ -1,0 +1,13 @@
+//
+//  RootViewController.h
+//  PlayerSample
+//
+//  Created by co on 15/10/30.
+//  Copyright © 2015年 caofarui. All rights reserved.
+//
+
+#import "ViewController.h"
+
+@interface RootViewController : ViewController
+
+@end
